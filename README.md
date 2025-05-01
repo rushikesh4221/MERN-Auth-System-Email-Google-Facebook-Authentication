@@ -87,6 +87,7 @@ node server.js
 ![page](./screenshots/a.png)
 
 **keywords:**
+```
 mern authentication system,
 mern stack login signup,
 mern google facebook login,
@@ -145,4 +146,6 @@ MERN stack authentication example GitHub,
 Node.js authentication system with React frontend,
 Secure API authentication in MERN stack,
 Role-based authentication in MERN stack,
+
+```
 
